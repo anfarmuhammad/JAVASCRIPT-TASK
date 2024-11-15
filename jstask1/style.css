@@ -1,0 +1,29 @@
+body{
+   width: 100vw;
+   height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.main{
+    width: 50%;
+    height: 30%;
+    background-color: rgb(76, 76, 80);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-direction: column;
+}
+#para{
+    font-size: 30px;
+}
+#btn1{
+    background-color: red;
+}
+#btn2{
+    background-color: orangered;
+}
+#btn3{
+    background-color: yellowgreen;
+}
